@@ -1,0 +1,21 @@
+﻿BranchID,BranchName_Standard,Governorate,AreaGroup,Status,Note
+BR001,مدينة نصر - عباس العقاد,Cairo,East Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR002,مصر الجديدة - الكوربة,Cairo,East Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR003,التجمع الخامس,Cairo,New Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR004,المعادي,Cairo,South Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR005,وسط البلد,Cairo,Central Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR006,الشيخ زايد,Giza,West Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR007,6 أكتوبر,Giza,West Cairo,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR008,الدقي,Giza,Central Giza,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR009,الهرم,Giza,South Giza,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR010,الإسكندرية - سموحة,Alexandria,Alexandria,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR011,الإسكندرية - سيدي جابر,Alexandria,Alexandria,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR012,المنصورة - المشاية,Dakahlia,Delta,Illustrative,"Synthetic training scenario; illustrative location only, not a verified official B.LABAN branch."
+BR013,المنيا - مركز المدينة,Minya,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR014,أسيوط - مدينة أسيوط,Assiut,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR015,الأقصر - وسط المدينة,Luxor,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR016,أسوان - وسط المدينة,Aswan,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR017,سوهاج - مركز المدينة,Sohag,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR018,قنا - مركز المدينة,Qena,Upper Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR019,بني سويف - مركز المدينة,Beni Suef,Middle Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.
+BR020,الفيوم - مركز المدينة,Faiyum,Middle Egypt,Simulated,Simulated branch for analysis; not a verified physical B.LABAN address.

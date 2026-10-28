@@ -1,0 +1,34 @@
+﻿ProductID,ProductName_Standard_AR,ProductName_Standard_EN,ProductFamily,Category,ReferencePrice_EGP,Note
+PR001,أرز بلبن سادة,Plain Rice Pudding,Rice Pudding,Rice Pudding,35,Synthetic reference price for training; not a verified current menu price.
+PR002,أرز بلبن مكسرات,Rice Pudding Nuts,Rice Pudding,Rice Pudding,48,Synthetic reference price for training; not a verified current menu price.
+PR003,أرز بلبن لوتس,Lotus Rice Pudding,Rice Pudding,Rice Pudding,55,Synthetic reference price for training; not a verified current menu price.
+PR004,أم علي,Om Ali,Oven Dessert,Oven Dessert,52,Synthetic reference price for training; not a verified current menu price.
+PR005,كنافة مانجو,Mango Kunafa,Kunafa,Kunafa,68,Synthetic reference price for training; not a verified current menu price.
+PR006,كنافة نوتيلا,Nutella Kunafa,Kunafa,Kunafa,72,Synthetic reference price for training; not a verified current menu price.
+PR007,كنافة قشطة,Cream Kunafa,Kunafa,Kunafa,60,Synthetic reference price for training; not a verified current menu price.
+PR008,كشري مانجو,Mango Koshary,Layered Dessert,Layered Dessert,65,Synthetic reference price for training; not a verified current menu price.
+PR009,كشري لوتس,Lotus Koshary,Layered Dessert,Layered Dessert,70,Synthetic reference price for training; not a verified current menu price.
+PR010,بسبوسة سادة,Plain Basbousa,Basbousa,Basbousa,32,Synthetic reference price for training; not a verified current menu price.
+PR011,بسبوسة قشطة,Cream Basbousa,Basbousa,Basbousa,42,Synthetic reference price for training; not a verified current menu price.
+PR012,مهلبية,Mahalabia,Pudding,Pudding,30,Synthetic reference price for training; not a verified current menu price.
+PR013,رز بلبن فرن,Oven Rice Pudding,Rice Pudding,Rice Pudding,45,Synthetic reference price for training; not a verified current menu price.
+PR014,كنافة أوريو,Oreo Kunafa,Kunafa,Kunafa,70,Synthetic reference price for training; not a verified current menu price.
+PR015,كريب شوكولاتة,Chocolate Crepe,Crepe,Crepe,58,Synthetic reference price for training; not a verified current menu price.
+PR016,وافل شوكولاتة,Chocolate Waffle,Waffle,Waffle,62,Synthetic reference price for training; not a verified current menu price.
+PR017,آيس كريم فانيليا,Vanilla Ice Cream,Ice Cream,Ice Cream,28,Synthetic reference price for training; not a verified current menu price.
+PR018,آيس كريم مانجو,Mango Ice Cream,Ice Cream,Ice Cream,30,Synthetic reference price for training; not a verified current menu price.
+PR019,بوكس ميكس صغير,Small Mixed Box,Mixed Box,Mixed Box,115,Synthetic reference price for training; not a verified current menu price.
+PR020,بوكس ميكس كبير,Large Mixed Box,Mixed Box,Mixed Box,195,Synthetic reference price for training; not a verified current menu price.
+PR021,قشطوطة مانجو,Mango Kashtouta,Kashtouta,Dessert,105,Menu item name found in public B.LABAN/Talabat listing; reference price is synthetic.
+PR022,قشطوطة كراميل,Caramel Kashtouta,Kashtouta,Dessert,80,Menu item name found in public B.LABAN/Talabat listing; reference price is synthetic.
+PR023,قشطوطة لوتس,Lotus Kashtouta,Kashtouta,Dessert,110,Menu item name found in public menu listings; reference price is synthetic.
+PR024,قشطوطة مكسرات,Nuts Kashtouta,Kashtouta,Dessert,120,Menu item name found in public menu listing; reference price is synthetic.
+PR025,كشري بيستاشيو,Pistachio Koshary,Layered Dessert,Layered Dessert,80,Menu item name found in official online ordering menu; reference price is synthetic.
+PR026,كشري كيندر,Kinder Koshary,Layered Dessert,Layered Dessert,75,Menu item name found in official online ordering menu; reference price is synthetic.
+PR027,كشري نوتيلا,Nutella Koshary,Layered Dessert,Layered Dessert,70,Menu item name found in official online ordering menu; reference price is synthetic.
+PR028,أرز بلبن مانجو,Mango Rice Pudding,Rice Pudding,Rice Pudding,70,Menu item name found in public delivery listing; reference price is synthetic.
+PR029,أرز قشطة مكسرات,Cream and Nuts Rice Pudding,Rice Pudding,Rice Pudding,85,Menu item name found in public delivery listing; reference price is synthetic.
+PR030,آيس كريم,Ice Cream,Ice Cream,Ice Cream,39,Product family/category found in public menu listings; reference price is synthetic.
+PR031,أم علي بالسمنة البلدي والقشطة والمكسرات,Om Ali with Cream and Nuts,Oven Dessert,Oven Dessert,95,Product name found in official online ordering menu; reference price is synthetic.
+PR032,كشري لوتس كبير,Large Lotus Koshary,Layered Dessert,Layered Dessert,110,Menu item name found in official online ordering menu; reference price is synthetic.
+PR033,كشري مانجو كبير,Large Mango Koshary,Layered Dessert,Layered Dessert,105,Menu item name found in official online ordering menu; reference price is synthetic.

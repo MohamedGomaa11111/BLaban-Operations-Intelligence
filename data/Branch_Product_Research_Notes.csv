@@ -1,0 +1,4 @@
+﻿SourceType,Evidence,URL,Limitations
+Official online ordering menu,Product names: Koshary Lotus/Mango/Nutella/Pistachio/Kinder; Om Ali,https://orders.blaban.net/menu/-297105/location/to-go,Public menu source; product names may vary by location/date; prices in dataset are synthetic.
+Public delivery listing (Talabat),Kashtouta Caramel; Mango rice pudding; Cream-and-nuts rice pudding; Minya delivery listing,https://www.talabat.com/ar/egypt/restaurant/759413/blaban-minya?aid=8751,Supports product/listing existence; does not independently verify every physical branch address.
+Expansion branches BR013-BR020,"Minya, Assiut, Luxor, Aswan, Sohag, Qena, Beni Suef, Faiyum",,"SIMULATED locations for analytics practice, not confirmed real B.LABAN branches."
